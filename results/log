@@ -2513,3 +2513,19 @@ downVer="https://github.com/ivan-hc/KDE-utils-appimage/releases/download/continu
 size=376 MB
 version=25.04
 -----------------------------------------------------------------
+APP="bomber"
+APPIMAGE='yes'
+GITHUB='yes'
+SITE="ivan-hc/KDE-games-suite-appimage"
+downVer="https://github.com/ivan-hc/KDE-games-suite-appimage/releases/download/continuous/KDE-games-suite_25.04-1-archimage4.3-x86_64.AppImage"
+size=375 MB
+version=25.04
+-----------------------------------------------------------------
+APP="bovo"
+APPIMAGE='yes'
+GITHUB='yes'
+SITE="ivan-hc/KDE-games-suite-appimage"
+downVer="https://github.com/ivan-hc/KDE-games-suite-appimage/releases/download/continuous/KDE-games-suite_25.04-1-archimage4.3-x86_64.AppImage"
+size=375 MB
+version=25.04
+-----------------------------------------------------------------
